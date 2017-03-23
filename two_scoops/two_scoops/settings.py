@@ -57,7 +57,9 @@ ROOT_URLCONF = 'two_scoops.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+            'lists/templates',
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

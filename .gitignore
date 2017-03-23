@@ -3,3 +3,7 @@ __pycache__/*
 *.pyc
 
 two_scoops/lists/__pycache__/tests.cpython-34.pyc
+
+*.pyc
+
+two_scoops/two_scoops/__pycache__/settings.cpython-34.pyc
